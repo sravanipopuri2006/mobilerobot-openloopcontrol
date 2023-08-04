@@ -41,6 +41,10 @@ Give  ep_led.set_led() to use different colours of led
 
 ## Program
 ```
+Developed by: Popuri Sravani
+
+Register no: 23006561
+
 from robomaster import robot
 import time
 from robomaster import camera
